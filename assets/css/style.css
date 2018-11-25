@@ -1,0 +1,16 @@
+.containerName{
+    margin-left:725px;
+    text-align:center;
+}
+
+.jumbotron{
+    margin-top:-62px;
+}
+.btn{
+    margin-top:-110px;
+
+    padding:1px 60px;
+}
+body{
+    background-image: url(../images/ep_naturalwhite.png)
+}
